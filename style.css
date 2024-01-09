@@ -88,10 +88,10 @@ button:hover{
 }
 
 #chk:checked ~ .login label{
-    transform: scale(1);
+    transform: scale(1.1);
 }
 
 #chk:checked ~ .signup label {
-    transform: scale(.6);
+    transform: scale(.59);
 
 }
